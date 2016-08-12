@@ -20,6 +20,7 @@ class ViewController: UIViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
 
+    billField.becomeFirstResponder();
     let defaults = NSUserDefaults.standardUserDefaults()
     let defaultPercentage = defaults.doubleForKey(KeyRing.DEFAULT_PERCENTAGE_KEY) ?? 0.0
     var index = 0
