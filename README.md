@@ -1,11 +1,3 @@
-# codepathiOS
-Code for the iOS codepath training 
-
-I made a tip calculator.  It looks like this
-
-![alt text](https://github.com/DonSimonBolivar/codepathiOS/blob/master/TipCalcWalkthru.gif "Walkthru")
-
-
 # Pre-work - TipCalc
 
 TipCalc is a tip calculator application for iOS.
@@ -22,14 +14,16 @@ The following **required** functionality is complete:
 * [X] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
-* [X] UI animations
+* [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] List anything else that you can get done to improve the app functionality!
+- I added appropriately sized icons to the app, so that it will be easier to find on the user's home screen, and not look out of place.
+- I made the bill field be the first responder, but it doesn't show up in the video.  You can check the code or run it on an iPhone to see that it works.
 
 ## Video Walkthrough 
 
