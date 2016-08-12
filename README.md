@@ -24,6 +24,7 @@ The following **additional** features are implemented:
 - [X] List anything else that you can get done to improve the app functionality!
 - I added appropriately sized icons to the app, so that it will be easier to find on the user's home screen, and not look out of place.
 - I made the bill field be the first responder, but it doesn't show up in the video.  You can check the code or run it on an iPhone to see that it works.
+- I tried to make sure the app would look good on different sized phones, and in both screen orientations.
 
 ## Video Walkthrough 
 
